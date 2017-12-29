@@ -1,2 +1,2 @@
 # PicQ-Pictures-Manage
-PicQ Picture Manage Windows Store App
+PicQ Picture Manage Privacy Policy Windows Store App.
